@@ -41,5 +41,9 @@ bilangan4 = 2
 hasilPangkat = bilangan3 ** bilangan4
 print(hasilPangkat)
 
-#Pembagian
+#Pembagian Bulat
 print(10//3) 
+
+#Perbandingan
+print(1 == 1) # bernilai True Jika masing-masing operan memiliki nilai yang sama, maka kondisi bernilai benar atau True.
+print(1 != 1) # bernilai False Akan menghasilkan nilai kebalikan dari kondisi sebenarnya.
