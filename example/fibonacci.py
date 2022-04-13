@@ -1,4 +1,9 @@
-# credits: https://jagongoding.com/python/latihan-logika/fibonacci-non-rekursif/
+# Bilangan fibonacci selalu diawali oleh 2 angka, yaitu 0 dan 1.
+# Ke-3 adalah hasil dari 0 + 1 = 1
+# Ke-4 adalah hasil dari 1 + 1 = 2
+# Ke-5 adalah hasil dari 2 + 1 = 3
+# Ke-6 adalah hasil dari 3 + 2 = 5
+# Ke-7 adalah hasil dari 5 + 3 = 8 dst
 
 panjangBilangan = int(input(" Masukkan deret bilangan yang di inginkan = "))
 fibo = [0, 1]
